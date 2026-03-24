@@ -1,0 +1,2 @@
+# Sistema de Extração de Dados de um .CSV
+Esse sistema simples em terminal analisa um .csv passando ele para uma lista, após, ele verifica nessa base de dados .csv quais estações são as mais quentes, frias e amenas.
